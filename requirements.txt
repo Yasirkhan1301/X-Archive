@@ -1,0 +1,13 @@
+pandas
+chromadb
+tiktoken
+sentence-transformers
+ollama
+PyMuPDF
+python-docx
+openpyxl
+rouge-score
+tqdm
+uuid
+matplotlib  # optional for visualizing results
+scikit-learn  # optional if evaluating multiple metrics
